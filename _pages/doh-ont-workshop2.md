@@ -17,7 +17,7 @@ permalink: /fmd-ghana-2025.html
 
 ## Overview
 
-This workshop is designed to provide practical training in the generation of whole genome sequences of Foot-and-Mouth Disease Virus (FMDV)using the Oxford Nanopore sequencing platform. 
+This workshop is designed to provide practical training in data science, epidemiology and the generation of whole genome sequences of Foot-and-Mouth Disease Virus (FMDV) using the Oxford Nanopore sequencing platform. 
 
 <br>
 
