@@ -17,8 +17,13 @@ permalink: /fmd-ghana-2025.html
 
 ## Overview
 
-This workshop is designed to provide practical training in data science, epidemiology and the generation of whole genome sequences of Foot-and-Mouth Disease Virus (FMDV) using the Oxford Nanopore sequencing platform. 
+This workshop is part of the Transboundary Animal Diseases (TADs) Capacity-Building Project, which addresses the complex epidemiology and socio-economic impact of diseases such as foot-and-mouth disease and African swine fever. These diseases pose significant challenges to animal health, particularly in Ghana, where limited laboratory networks and epidemiological expertise hinder rapid outbreak responses and evidence-based policy implementation.
 
+The workshop will be co-organized with the Accra Veterinary Laboratory and the University of Ghana. It will focus on two key objectives:
+
+Building Diagnostic Capacity: Participants will receive hands-on training in genome sequencing techniques and data science tools to improve diagnostic capabilities.
+Epidemiological Skills Development: Professionals will be trained in essential epidemiological methods, enabling them to analyze high-quality data, such as the national animal movement database, to inform disease control strategies.
+By fostering local expertise and reducing reliance on external support, this workshop aims to strengthen Ghana’s capacity for managing TADs and safeguarding animal health.
 <br>
 
 ## Photo gallery
@@ -76,23 +81,121 @@ This workshop is designed to provide practical training in data science, epidemi
 
 <div  class="col-md-10">
 
+<h3>Day 1</h3>
+
 <table  class="table table-striped">
 
 <tr>  <td><b>Time</b></td>  <td><b>Session</b></td>  <td><b>Who</b></td></tr>
 
-<tr>  <td>09:00</td>  <td><i>Set up computers</i></td>  <td>All</td></tr>
+<tr>  <td>09:00</td>  <td><i>Registration and morning coffee</i></td>  <td>All</td></tr>
 
-<tr>  <td>09:30</td>  <td>Overview</td>  <td>All</td></tr>
+<tr>  <td>09:15</td>  <td>Opening ceremony</td>  <td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
 
-<tr>  <td>09:45</td>  <td>EPI2ME for Basecalling and Analysis</td>  <td>All</td></tr>
+<tr>  <td>09:45</td>  <td>Part 1: DNA Extraction 1 (3 Hours)</td>  <td>11 participants and trainers only</td></tr>
 
-<tr>  <td>12:30</td>  <td><i>Lunch Break</i></td>  <td>All</td></tr>
+<tr>  <td>12:45</td>  <td><i>Lunch Break</i></td>  <td>11 participants and trainers only</td></tr>
 
-<tr>  <td>13:30</td>  <td>Galaxy for Bioinformatic analysis</td>  <td>All</td></tr>
+<tr>  <td>13:30</td>  <td>Part 2: DNA Extraction 2 (2 Hours)</td>  <td>11 participants and trainers only</td></tr>
 
-<tr>  <td>15:30</td>  <td><i>Afternoon break</i></td>  <td>All</td></tr>
+<tr>  <td>15:30</td>  <td><i>Afternoon break</i></td>  <td>11 participants and trainers only</td></tr>
 
-<tr>  <td>16:00</td>  <td>Galaxy for Bioinformatic analysis</td>  <td>All</td></tr>
+<tr>  <td>16:00</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>11 participants and trainers & Emmanuel Ssebaggala</td></tr>
+
+<tr>  <td>17:00</td>  <td>END</td>  <td>Everyone</td></tr>
+
+</table>
+
+<h3>Day 2</h3>
+
+<table  class="table table-striped">
+
+<tr>  <td><b>Time</b></td>  <td><b>Session</b></td>  <td><b>Who</b></td></tr>
+
+<tr>  <td>09:00</td>  <td><i>Registration and morning coffee</i></td>  <td>All</td></tr>
+
+<tr>  <td>09:15</td>  <td>Opening ceremony</td>  <td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
+
+<tr>  <td>09:45</td>  <td>Part 1: DNA Extraction 1 (3 Hours)</td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>12:45</td>  <td><i>Lunch Break</i></td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>13:30</td>  <td>Part 2: DNA Extraction 2 (2 Hours)</td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>15:30</td>  <td><i>Afternoon break</i></td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>16:00</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>11 participants and trainers & Emmanuel Ssebaggala</td></tr>
+
+<tr>  <td>17:00</td>  <td>END</td>  <td>Everyone</td></tr>
+
+</table>
+
+<h3>Day 3</h3>
+
+<table  class="table table-striped">
+
+<tr>  <td><b>Time</b></td>  <td><b>Session</b></td>  <td><b>Who</b></td></tr>
+
+<tr>  <td>09:00</td>  <td><i>Registration and morning coffee</i></td>  <td>All</td></tr>
+
+<tr>  <td>09:15</td>  <td>Opening ceremony</td>  <td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
+
+<tr>  <td>09:45</td>  <td>Part 1: DNA Extraction 1 (3 Hours)</td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>12:45</td>  <td><i>Lunch Break</i></td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>13:30</td>  <td>Part 2: DNA Extraction 2 (2 Hours)</td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>15:30</td>  <td><i>Afternoon break</i></td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>16:00</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>11 participants and trainers & Emmanuel Ssebaggala</td></tr>
+
+<tr>  <td>17:00</td>  <td>END</td>  <td>Everyone</td></tr>
+
+</table>
+
+<h3>Day 4</h3>
+
+<table  class="table table-striped">
+
+<tr>  <td><b>Time</b></td>  <td><b>Session</b></td>  <td><b>Who</b></td></tr>
+
+<tr>  <td>09:00</td>  <td><i>Registration and morning coffee</i></td>  <td>All</td></tr>
+
+<tr>  <td>09:15</td>  <td>Opening ceremony</td>  <td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
+
+<tr>  <td>09:45</td>  <td>Part 1: DNA Extraction 1 (3 Hours)</td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>12:45</td>  <td><i>Lunch Break</i></td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>13:30</td>  <td>Part 2: DNA Extraction 2 (2 Hours)</td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>15:30</td>  <td><i>Afternoon break</i></td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>16:00</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>11 participants and trainers & Emmanuel Ssebaggala</td></tr>
+
+<tr>  <td>17:00</td>  <td>END</td>  <td>Everyone</td></tr>
+
+</table>
+
+<h3>Day 5</h3>
+
+<table  class="table table-striped">
+
+<tr>  <td><b>Time</b></td>  <td><b>Session</b></td>  <td><b>Who</b></td></tr>
+
+<tr>  <td>09:00</td>  <td><i>Registration and morning coffee</i></td>  <td>All</td></tr>
+
+<tr>  <td>09:15</td>  <td>Opening ceremony</td>  <td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
+
+<tr>  <td>09:45</td>  <td>Part 1: DNA Extraction 1 (3 Hours)</td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>12:45</td>  <td><i>Lunch Break</i></td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>13:30</td>  <td>Part 2: DNA Extraction 2 (2 Hours)</td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>15:30</td>  <td><i>Afternoon break</i></td>  <td>11 participants and trainers only</td></tr>
+
+<tr>  <td>16:00</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>11 participants and trainers & Emmanuel Ssebaggala</td></tr>
 
 <tr>  <td>17:00</td>  <td>END</td>  <td>Everyone</td></tr>
 
