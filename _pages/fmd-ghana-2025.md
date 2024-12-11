@@ -81,116 +81,26 @@ By fostering local expertise and reducing reliance on external support, this wor
 
 <div  class="col-md-10">
 
-## **Day 1**
+<h3>Day 1</h3>
 
-### **Group A**
-| **Time** | **Session**                             | **Who**                                     |
-|----------|-----------------------------------------|---------------------------------------------|
-| 09:00    | *Registration and morning coffee*       | All                                        |
-| 09:15    | Opening ceremony                        | All, Dr. Susan Nabadda, Dr. Adrian Muwonge |
-| 09:45    | Part 1: DNA Extraction 1 (3 Hours)      | Group A (11 participants and trainers)     |
-| 12:45    | *Lunch Break*                           | Group A                                    |
-| 13:30    | Part 2: DNA Extraction 2 (2 Hours)      | Group A                                    |
-| 15:30    | *Afternoon break*                       | Group A                                    |
-| 16:00    | Digital One Health showcase (Bodastage) | Group A, Emmanuel Ssebaggala              |
-| 17:00    | END                                     | Everyone                                   |
+<h4>Group A</h4>
+<table class="table table-striped">
+  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
+  <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
+  <tr><td>09:15</td><td>Opening ceremony</td><td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
+  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Group A (11 participants and trainers)</td></tr>
+  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Group A</td></tr>
+  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Group A</td></tr>
+  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Group A</td></tr>
+  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Group A, Emmanuel Ssebaggala</td></tr>
+  <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
+</table>
 
-### **Group B**
-| **Time** | **Session**                             | **Who**                                     |
-|----------|-----------------------------------------|---------------------------------------------|
-| 09:00    | *Registration and morning coffee*       | All                                        |
-| 09:15    | Opening ceremony                        | All, Dr. Susan Nabadda, Dr. Adrian Muwonge |
-| 09:45    | Part 1: DNA Extraction 1 (3 Hours)      | Group B (11 participants and trainers)     |
-| 12:45    | *Lunch Break*                           | Group B                                    |
-| 13:30    | Part 2: DNA Extraction 2 (2 Hours)      | Group B                                    |
-| 15:30    | *Afternoon break*                       | Group B                                    |
-| 16:00    | Digital One Health showcase (Bodastage) | Group B, Emmanuel Ssebaggala              |
-| 17:00    | END                                     | Everyone                                   |
-
----
-
-## **Day 2**
-
-### **Group A**
-| **Time** | **Session**                             | **Who**                                     |
-|----------|-----------------------------------------|---------------------------------------------|
-| 09:00    | *Registration and morning coffee*       | All                                        |
-| 09:15    | Opening ceremony                        | All, Dr. Susan Nabadda, Dr. Adrian Muwonge |
-| 09:45    | Part 1: DNA Extraction 1 (3 Hours)      | Group A (11 participants and trainers)     |
-| 12:45    | *Lunch Break*                           | Group A                                    |
-| 13:30    | Part 2: DNA Extraction 2 (2 Hours)      | Group A                                    |
-| 15:30    | *Afternoon break*                       | Group A                                    |
-| 16:00    | Digital One Health showcase (Bodastage) | Group A, Emmanuel Ssebaggala              |
-| 17:00    | END                                     | Everyone                                   |
-
-### **Group B**
-| **Time** | **Session**                             | **Who**                                     |
-|----------|-----------------------------------------|---------------------------------------------|
-| 09:00    | *Registration and morning coffee*       | All                                        |
-| 09:15    | Opening ceremony                        | All, Dr. Susan Nabadda, Dr. Adrian Muwonge |
-| 09:45    | Part 1: DNA Extraction 1 (3 Hours)      | Group B (11 participants and trainers)     |
-| 12:45    | *Lunch Break*                           | Group B                                    |
-| 13:30    | Part 2: DNA Extraction 2 (2 Hours)      | Group B                                    |
-| 15:30    | *Afternoon break*                       | Group B                                    |
-| 16:00    | Digital One Health showcase (Bodastage) | Group B, Emmanuel Ssebaggala              |
-| 17:00    | END                                     | Everyone                                   |
-
----
-
-## **Day 3**
-
-### **Group A**
-| **Time** | **Session**                             | **Who**                                     |
-|----------|-----------------------------------------|---------------------------------------------|
-| 09:00    | *Registration and morning coffee*       | All                                        |
-| 09:15    | Opening ceremony                        | All, Dr. Susan Nabadda, Dr. Adrian Muwonge |
-| 09:45    | Part 1: DNA Extraction 1 (3 Hours)      | Group A (11 participants and trainers)     |
-| 12:45    | *Lunch Break*                           | Group A                                    |
-| 13:30    | Part 2: DNA Extraction 2 (2 Hours)      | Group A                                    |
-| 15:30    | *Afternoon break*                       | Group A                                    |
-| 16:00    | Digital One Health showcase (Bodastage) | Group A, Emmanuel Ssebaggala              |
-| 17:00    | END                                     | Everyone                                   |
-
-### **Group B**
-| **Time** | **Session**                             | **Who**                                     |
-|----------|-----------------------------------------|---------------------------------------------|
-| 09:00    | *Registration and morning coffee*       | All                                        |
-| 09:15    | Opening ceremony                        | All, Dr. Susan Nabadda, Dr. Adrian Muwonge |
-| 09:45    | Part 1: DNA Extraction 1 (3 Hours)      | Group B (11 participants and trainers)     |
-| 12:45    | *Lunch Break*                           | Group B                                    |
-| 13:30    | Part 2: DNA Extraction 2 (2 Hours)      | Group B                                    |
-| 15:30    | *Afternoon break*                       | Group B                                    |
-| 16:00    | Digital One Health showcase (Bodastage) | Group B, Emmanuel Ssebaggala              |
-| 17:00    | END                                     | Everyone                                   |
-
----
-
-## **Day 4**
-
-### **Group A**
-| **Time** | **Session**                             | **Who**                                     |
-|----------|-----------------------------------------|---------------------------------------------|
-| 09:00    | *Registration and morning coffee*       | All                                        |
-| 09:15    | Opening ceremony                        | All, Dr. Susan Nabadda, Dr. Adrian Muwonge |
-| 09:45    | Part 1: DNA Extraction 1 (3 Hours)      | Group A (11 participants and trainers)     |
-| 12:45    | *Lunch Break*                           | Group A                                    |
-| 13:30    | Part 2: DNA Extraction 2 (2 Hours)      | Group A                                    |
-| 15:30    | *Afternoon break*                       | Group A                                    |
-| 16:00    | Digital One Health showcase (Bodastage) | Group A, Emmanuel Ssebaggala              |
-| 17:00    | END                                     | Everyone                                   |
-
-### **Group B**
-| **Time** | **Session**                             | **Who**                                     |
-|----------|-----------------------------------------|---------------------------------------------|
-| 09:00    | *Registration and morning coffee*       | All                                        |
-| 09:15    | Opening ceremony                        | All, Dr. Susan Nabadda, Dr. Adrian Muwonge |
-| 09:45    | Part 1: DNA Extraction 1 (3 Hours)      | Group B (11 participants and trainers)     |
-| 12:45    | *Lunch Break*                           | Group B                                    |
-| 13:30    | Part 2: DNA Extraction 2 (2 Hours)      | Group B                                    |
-| 15:30    | *Afternoon break*                       | Group B                                    |
-| 16:00    | Digital One Health showcase (Bodastage) | Group B, Emmanuel Ssebaggala              |
-| 17:00    | END                                     | Everyone                                   |
-
+<h4>Group B</h4>
+<table class="table table-striped">
+  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
+  <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
+  <tr><td>
 
 <h3>Day 5</h3>
 
