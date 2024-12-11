@@ -1,23 +1,23 @@
 ---
-title: "DOH Nanopore Workshop 2"
+title: "FMD Sequencing and Data Science Workshop"
 layout: textlay
 sitemap: false
-permalink: /doh-ont-workshop2.html
+permalink: /FMD-Ghana-2025.html
 ---
 
 
 <br>
 <br>
-# Digital One Health Nanopore Bioinformatics Workshop
+# FMD 
 
-**Date:** Tuesday, 27 August 2024  
-**Location:** National Health Laboratory and Diagnostic Services (NHLDS), Kampala, Uganda
+**Date:** Tuesday, 22 - 27 January 2025  
+**Location:** Accra Veterinary Laboratory, GL-005-4794, Okodan Rd, Accra, Ghana
 
 ---
 
 ## Overview
 
-This workshop will provide hands-on experience preparing bacterial isolates for whole genome sequencing on the Oxford Nanopore sequencing platform. Colleagues across the One Health ministires will be able to use this to improve the resolution of AMR surveillance. This is part of a series of initiatives from the Digital One Health Laboratory that aims to bring together [AMR](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance) stakeholders from various institutions across the [One Health](https://www.who.int/health-topics/one-health) spectrum to increase the AMR surveillance capacity in Uganda and the region.
+This workshop is designed to provide practical training in the generation of whole genome sequences of Foot-and-Mouth Disease Virus (FMDV)using the Oxford Nanopore sequencing platform. 
 
 <br>
 
@@ -29,16 +29,7 @@ This workshop will provide hands-on experience preparing bacterial isolates for 
 <ol class="carousel-indicators">
     <li data-target="#carousel" data-slide-to="0" class="active"></li>
     <li data-target="#carousel" data-slide-to="1"></li>
-    <li data-target="#carousel" data-slide-to="2"></li>
-    <li data-target="#carousel" data-slide-to="3"></li>
-    <li data-target="#carousel" data-slide-to="4"></li>
-    <li data-target="#carousel" data-slide-to="5"></li>
-    <li data-target="#carousel" data-slide-to="6"></li>
-    <li data-target="#carousel" data-slide-to="7"></li>
-    <li data-target="#carousel" data-slide-to="8"></li>
-    <li data-target="#carousel" data-slide-to="9"></li>
-    <li data-target="#carousel" data-slide-to="10"></li>
-</ol>
+</ol> -->
 
 <!-- Items -->
 <div class="carousel-inner" markdown="0">
@@ -47,81 +38,10 @@ This workshop will provide hands-on experience preparing bacterial isolates for 
         <!-- Caption -->
         <div class="carousel-caption">
             <h3></h3>
-            <p>NHLDS, Kampala</p>
+            <p>AVL, Accra</p>
         </div>
     </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nhlds2.jpeg" alt="Slide 2" />
-        <!-- Caption -->
-        <div class="carousel-caption">
-            <h3></h3>
-            <p>NHLDS, Kampala</p>
-        </div>
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DrSusanHandover.jpeg" alt="Slide 3" />
-        <!-- Caption -->
-        <div class="carousel-caption">
-            <h3></h3>
-            <p>NHLDS, Kampala</p>
-        </div>
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/naddec2024handover.jpg" alt="Slide 4" />
-        <!-- Caption -->
-        <div class="carousel-caption">
-            <h3></h3>
-            <p>NHLDS, Kampala</p>
-        </div>
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/mwe2024handover.jpeg" alt="Slide 5" />
-        <!-- Caption -->
-        <div class="carousel-caption">
-            <h3></h3>
-            <p>NHLDS, Kampala</p>
-        </div>
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHNW1.jpeg" alt="Slide 6" />
-        <!-- Caption -->
-        <div class="carousel-caption">
-            <h3></h3>
-            <p>NHLDS, Kampala</p>
-        </div>
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHNW2.jpeg" alt="Slide 7" />
-        <!-- Caption -->
-        <div class="carousel-caption">
-            <h3></h3>
-            <p>NHLDS, Kampala</p>
-        </div>
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHNW3.jpeg" alt="Slide 8" />
-        <!-- Caption -->
-        <div class="carousel-caption">
-            <h3></h3>
-            <p>NHLDS, Kampala</p>
-        </div>
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHNW4.jpeg" alt="Slide 9" />
-        <!-- Caption -->
-        <div class="carousel-caption">
-            <h3></h3>
-            <p>NHLDS, Kampala</p>
-        </div>
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHNW5.jpeg" alt="Slide 10" />
-        <!-- Caption -->
-        <div class="carousel-caption">
-            <h3></h3>
-            <p>NHLDS, Kampala</p>
-        </div>
-    </div>
+ 
 </div>
 
 
@@ -141,11 +61,11 @@ This workshop will provide hands-on experience preparing bacterial isolates for 
 
 ## Links (For Workshop Use)
 
-[Directions to the venue](https://maps.app.goo.gl/NHBL7g38Cf95bL5j9)
+[Directions to the venue](https://maps.app.goo.gl/FUBxGFgPJC9mNLZy7)
 
 [Pre-workshop briefing slides]({{ site.url }}{{ site.baseurl }}/downloads/DOHBioinfoPreworkshop2024.pdf)
 
-[Google Drive - Workshop material](https://drive.google.com/drive/folders/1fKZh36KhvgHPmDXztGZ9KDFRmWNypEd9?usp=sharing)
+[Google Drive - Workshop material](https://drive.google.com)
 
 [Collaborative Google Doc]() &larr; link not active yet
 
@@ -187,25 +107,18 @@ This workshop will provide hands-on experience preparing bacterial isolates for 
 
 ### Trainers
 
-* **Bryan Wee:** The Roslin Institute, University of Edinburgh, UK
+* **Mark Bronsvoort:** [Short bio]  
+* **Lina Gonzalez Gordon:** [Short bio]  
+* **Stella Mazeri:** [Short bio]  
+* **Richard Orton:** [Short bio]  
+* **Andrew Shaw:** [Short bio]  
+* **Bram van Bunnik:** [Short bio]  
+* **Bryan Wee:** [Short bio]  
+
 
 ### Workshop participants
 
-#### Animal health
-
-* **Arinaitwe Eugene :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
-* **Gladys Nakanjako Kiggundu :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
-
-#### Environmental health
-
-* **Abraham Otai Samuel :** Ministry of Water and Environment (MWE), Uganda.
-* **Ankunda Penrose :** Ministry of Water and Environment (MWE), Uganda.
-
-#### Human health
-
-* **Stephen Kanyerezi :** Central Public Health Laboratories (CPHL), Uganda.
-* **Godwin Tusabe :** Central Public Health Laboratories (CPHL), Uganda.
-
+* **Theophilus Odoom :** AVL, Accra, Ghana
 
 ---
 
