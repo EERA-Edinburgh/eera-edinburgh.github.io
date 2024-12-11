@@ -83,113 +83,113 @@ By fostering local expertise and reducing reliance on external support, this wor
 
 <h3>Day 1</h3>
 
-<h4>Group A</h4>
+<h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Group A (11 participants and trainers)</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Group A</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Group A</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Group A</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Group A, Emmanuel Ssebaggala</td></tr>
+  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
+  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Sequencing and Bioinformatics</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
-<h4>Group B</h4>
+<h4>Data science & Epidemiology</h4>
 <table class="table table-striped">
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Group B (11 participants and trainers)</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Group B</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Group B</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Group B</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Group B, Emmanuel Ssebaggala</td></tr>
+  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
+  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Data science & Epidemiology</td></tr>
+  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Data science & Epidemiology</td></tr>
+  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Data science & Epidemiology</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
 <h3>Day 2</h3>
 
-<h4>Group A</h4>
+<h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Group A (11 participants and trainers)</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Group A</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Group A</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Group A</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Group A, Emmanuel Ssebaggala</td></tr>
+  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
+  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Sequencing and Bioinformatics</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
-<h4>Group B</h4>
+<h4>Data science & Epidemiology</h4>
 <table class="table table-striped">
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Group B (11 participants and trainers)</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Group B</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Group B</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Group B</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Group B, Emmanuel Ssebaggala</td></tr>
+  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
+  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Data science & Epidemiology</td></tr>
+  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Data science & Epidemiology</td></tr>
+  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Data science & Epidemiology</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
 <h3>Day 3</h3>
 
-<h4>Group A</h4>
+<h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Group A (11 participants and trainers)</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Group A</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Group A</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Group A</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Group A, Emmanuel Ssebaggala</td></tr>
+  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
+  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Sequencing and Bioinformatics</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
-<h4>Group B</h4>
+<h4>Data science & Epidemiology</h4>
 <table class="table table-striped">
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Group B (11 participants and trainers)</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Group B</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Group B</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Group B</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Group B, Emmanuel Ssebaggala</td></tr>
+  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
+  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Data science & Epidemiology</td></tr>
+  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Data science & Epidemiology</td></tr>
+  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Data science & Epidemiology</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
 <h3>Day 4</h3>
 
-<h4>Group A</h4>
+<h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Group A (11 participants and trainers)</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Group A</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Group A</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Group A</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Group A, Emmanuel Ssebaggala</td></tr>
+  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
+  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Sequencing and Bioinformatics</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
-<h4>Group B</h4>
+<h4>Data science & Epidemiology</h4>
 <table class="table table-striped">
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Group B (11 participants and trainers)</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Group B</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Group B</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Group B</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Group B, Emmanuel Ssebaggala</td></tr>
+  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
+  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Data science & Epidemiology</td></tr>
+  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Data science & Epidemiology</td></tr>
+  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Data science & Epidemiology</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
@@ -199,21 +199,13 @@ By fostering local expertise and reducing reliance on external support, this wor
 <table  class="table table-striped">
 
 <tr>  <td><b>Time</b></td>  <td><b>Session</b></td>  <td><b>Who</b></td></tr>
-
 <tr>  <td>09:00</td>  <td><i>Registration and morning coffee</i></td>  <td>All</td></tr>
-
-<tr>  <td>09:15</td>  <td>Opening ceremony</td>  <td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
-
-<tr>  <td>09:45</td>  <td>Part 1: DNA Extraction 1 (3 Hours)</td>  <td>11 participants and trainers only</td></tr>
-
-<tr>  <td>12:45</td>  <td><i>Lunch Break</i></td>  <td>11 participants and trainers only</td></tr>
-
-<tr>  <td>13:30</td>  <td>Part 2: DNA Extraction 2 (2 Hours)</td>  <td>11 participants and trainers only</td></tr>
-
-<tr>  <td>15:30</td>  <td><i>Afternoon break</i></td>  <td>11 participants and trainers only</td></tr>
-
-<tr>  <td>16:00</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>11 participants and trainers & Emmanuel Ssebaggala</td></tr>
-
+<tr>  <td>09:15</td>  <td>Opening ceremony</td>  <td>All</td></tr>
+<tr>  <td>09:45</td>  <td>Part 1: DNA Extraction 1 (3 Hours)</td>  <td>All</td></tr>
+<tr>  <td>12:45</td>  <td><i>Lunch Break</i></td>  <td>All</td></tr>
+<tr>  <td>13:30</td>  <td>Part 2: DNA Extraction 2 (2 Hours)</td>  <td>All</td></tr>
+<tr>  <td>15:30</td>  <td><i>Afternoon break</i></td>  <td>All</td></tr>
+<tr>  <td>16:00</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>All</td></tr>
 <tr>  <td>17:00</td>  <td>END</td>  <td>Everyone</td></tr>
 
 </table>
