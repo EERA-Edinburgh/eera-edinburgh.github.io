@@ -2,7 +2,7 @@
 title: "FMD Sequencing and Data Science Workshop"
 layout: textlay
 sitemap: false
-permalink: /FMD-Ghana-2025.html
+permalink: /fmd-ghana-2025.html
 ---
 
 
