@@ -101,11 +101,11 @@ By fostering local expertise and reducing reliance on external support, this wor
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
   <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>09:45</td><td>Lecture Introduction to R</td><td>Data science & Epidemiology</td></tr>
   <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>13:30</td><td>Practical Introduction to R (2 Hours)</td><td>Data science & Epidemiology</td></tr>
   <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>16:00</td><td>Practical Introduction to R</td><td>Data science & Epidemiology</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
@@ -128,12 +128,12 @@ By fostering local expertise and reducing reliance on external support, this wor
 <table class="table table-striped">
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>09:30</td><td>Creating Plots in R </td><td>Data science & Epidemiology</td></tr>
+  <tr><td>11:00</td><td>Epi stats</td><td>Data science & Epidemiology</td></tr>
   <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>13:30</td><td>Data Considerations</td><td>Data science & Epidemiology</td></tr>
   <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>16:00</td><td>Introduction to Kobo</td><td>Data science & Epidemiology</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
@@ -156,12 +156,11 @@ By fostering local expertise and reducing reliance on external support, this wor
 <table class="table table-striped">
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>09:30</td><td>Lecture Epidemiological Networks</td><td>Data science & Epidemiology</td></tr>
   <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>13:30</td><td>Practical Epidemiological Networks</td><td>Data science & Epidemiology</td></tr>
   <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>16:00</td><td>Hands-on Network Analysis and Mapping</td><td>Data science & Epidemiology</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
@@ -184,12 +183,14 @@ By fostering local expertise and reducing reliance on external support, this wor
 <table class="table table-striped">
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>09:30</td><td>Lecture Intro to Mathematical Modelling of Infectious Diseases </td><td>Data science & Epidemiology</td></tr>
+  <tr><td>10:45</td><td>Practical Intro to Mathematical Modelling of Infectious Diseases </td><td>Data science & Epidemiology</td></tr>
   <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>13:30</td><td>Lecture Modelling the Spread of a Disease over a Network</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>13:30</td><td>Practical Modelling Disease Spread over a Network</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>14:30</td><td>Lecture Modelling Interventions</td><td>Data science & Epidemiology</td></tr>
   <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>16:00</td><td>Practical Modelling Interventions</td><td>Data science & Epidemiology</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
