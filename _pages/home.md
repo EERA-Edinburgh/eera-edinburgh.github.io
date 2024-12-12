@@ -1,5 +1,5 @@
 ---
-title: "DOH - Home"
+title: "EERA - Home"
 layout: homelay
 sitemap: false
 permalink: /
