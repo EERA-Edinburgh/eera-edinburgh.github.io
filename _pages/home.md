@@ -9,7 +9,7 @@ permalink: /
 <div id="carousel" class="carousel slide fixed-carousel" data-ride="carousel" data-interval="4000" data-pause="hover">
 
 <!-- Menu -->
-<ol class="carousel-indicators">
+<!-- <ol class="carousel-indicators">
     <li data-target="#carousel" data-slide-to="0" class="active"></li>
     <li data-target="#carousel" data-slide-to="1"></li>
     <li data-target="#carousel" data-slide-to="2"></li>
@@ -17,12 +17,12 @@ permalink: /
     <li data-target="#carousel" data-slide-to="4"></li>
     <li data-target="#carousel" data-slide-to="5"></li>
 
-   <!-- <li data-target="#carousel" data-slide-to="5"></li>
-    <li data-target="#carousel" data-slide-to="6"></li> -->
-</ol>
+    <li data-target="#carousel" data-slide-to="5"></li>
+    <li data-target="#carousel" data-slide-to="6"></li>
+</ol> -->
 
 <!-- Items -->
-<div class="carousel-inner" markdown="0">
+<!-- <div class="carousel-inner" markdown="0">
     <div class="item active">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHN.png" alt="Slide 1" />
     </div>
@@ -38,7 +38,7 @@ permalink: /
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pigproduction.png" alt="Slide 5" />
     </div>
-</div>
+</div> -->
 
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
