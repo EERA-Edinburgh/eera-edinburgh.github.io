@@ -1,14 +1,14 @@
 ---
-title: "FMD Sequencing and Data Science Workshop"
+title: "TAD Sequencing and Data Science Workshop"
 layout: textlay
 sitemap: false
-permalink: /fmd-ghana-2025.html
+permalink: /tad-workshop-ghana-2025.html
 ---
 
 
 <br>
 <br>
-# FMD 
+# Transboundary Animal Diseases Workshop
 
 **Date:** Tuesday, 22 - 27 January 2025  
 **Location:** Accra Veterinary Laboratory, GL-005-4794, Okodan Rd, Accra, Ghana
