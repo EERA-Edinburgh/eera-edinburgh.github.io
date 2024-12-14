@@ -83,6 +83,180 @@ By fostering local expertise and reducing reliance on external support, this wor
 
 <h3>Day 1</h3>
 
+
+<h4>Day 1: Introduction to R and R-Studio</h4>
+<table>
+    <tr><th>Time</th><th>Activity</th><th>Details</th></tr>
+    <tr><td>9:30–10:30</td>
+        <td>Introduction to Data Science in Veterinary Medicine</td>
+        <td>Importance of data science in veterinary epidemiology, course objectives.</td>
+    </tr>
+    <tr>
+        <td>10:30–11:30</td>
+        <td>Getting Started with R and RStudio</td>
+        <td>Installing R and RStudio, understanding the interface, and basic operations.</td>
+    </tr>
+    <tr>
+        <td>11:30–12:30</td>
+        <td>Data Basics in R</td>
+        <td>Data types (vectors, matrices, data frames), importing/exporting datasets.</td>
+    </tr>
+    <tr>
+        <td>12:30–13:30</td>
+        <td>Lunch Break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>13:30–15:00</td>
+        <td>Hands-On: Exploring RStudio Environment</td>
+        <td>Navigating RStudio, writing scripts, loading packages (e.g., <code>tidyverse</code>).</td>
+    </tr>
+    <tr>
+        <td>15:00–15:15</td>
+        <td>Tea Break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>15:15–17:00</td>
+        <td>Practical Session: Basic Data Manipulation in R</td>
+        <td>Filtering, subsetting, summarizing, and visualizing data (e.g., histograms, box plots).</td>
+    </tr>
+</table>
+
+<h4>Day 2: Epidemiological Statistics, Data Considerations & Introduction to KOBO Toolbox</h4>
+<table>
+    <tr>
+        <th>Time</th>
+        <th>Activity</th>
+        <th>Details</th>
+    </tr>
+    <tr>
+        <td>9:30–10:30</td>
+        <td>Visualizing Epidemiological Data Using ggplot2</td>
+        <td>Hands-on with <code>ggplot2</code> for creating bar charts, scatterplots, and boxplots.</td>
+    </tr>
+    <tr>
+        <td>10:30–11:30</td>
+        <td>Introduction to Epi-Stats</td>
+        <td>Descriptive statistics (mean, median, prevalence, incidence) and confidence intervals.</td>
+    </tr>
+    <tr>
+        <td>11:30–12:30</td>
+        <td>Statistical Testing</td>
+        <td>Hypothesis testing (t-tests, chi-square, Fisher’s exact test).</td>
+    </tr>
+    <tr>
+        <td>12:30–13:30</td>
+        <td>Lunch Break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>13:30–15:00</td>
+        <td>Data Considerations in Veterinary Studies</td>
+        <td>Data quality, biases, and sampling strategies in epidemiological research.</td>
+    </tr>
+    <tr>
+        <td>15:00–15:15</td>
+        <td>Tea Break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>15:15–17:00</td>
+        <td>Introduction to KOBO Toolbox</td>
+        <td>Setting up KOBO, designing surveys, collecting field data.</td>
+    </tr>
+</table>
+
+<h4>Day 3: Analysis of Movement Networks</h4>
+<table>
+    <tr>
+        <th>Time</th>
+        <th>Activity</th>
+        <th>Details</th>
+    </tr>
+    <tr>
+        <td>9:30–10:30</td>
+        <td>Introduction to Network Analysis</td>
+        <td>Basics of networks (nodes, edges), relevance to disease spread.</td>
+    </tr>
+    <tr>
+        <td>10:30–11:30</td>
+        <td>Network Metrics in Epidemiology</td>
+        <td>Degree, centrality, connectivity, paths, and their applications.</td>
+    </tr>
+    <tr>
+        <td>11:30–12:30</td>
+        <td>Case Studies: Animal Movement Networks</td>
+        <td>Examples of disease outbreaks driven by movement (e.g., FMD, avian flu).</td>
+    </tr>
+    <tr>
+        <td>12:30–13:30</td>
+        <td>Lunch Break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>13:30–15:00</td>
+        <td>Hands-On: Visualizing Networks in R</td>
+        <td>Using <code>igraph</code> or similar R packages to map and analyze movement data.</td>
+    </tr>
+    <tr>
+        <td>15:00–15:15</td>
+        <td>Tea Break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>15:15–17:00</td>
+        <td>Practical Session: Analyzing Movement Data</td>
+        <td>Calculating metrics, identifying high-risk nodes, simulating disease spread.</td>
+    </tr>
+</table>
+
+<h4>Day 4: Introduction to Mathematical Modelling, Disease Networks & Control</h4>
+<table>
+    <tr>
+        <th>Time</th>
+        <th>Activity</th>
+        <th>Details</th>
+    </tr>
+    <tr>
+        <td>9:30–10:30</td>
+        <td>Introduction to Mathematical Modelling</td>
+        <td>Basics of deterministic models (e.g., SIR model) in epidemiology.</td>
+    </tr>
+    <tr>
+        <td>10:30–11:30</td>
+        <td>Modelling Disease Spread in Networks</td>
+        <td>Incorporating network dynamics into disease models.</td>
+    </tr>
+    <tr>
+        <td>11:30–12:30</td>
+        <td>Exploring Control Measures Through Modelling</td>
+        <td>Using models to evaluate vaccination, quarantine, or movement restrictions.</td>
+    </tr>
+    <tr>
+        <td>12:30–13:30</td>
+        <td>Lunch Break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>13:30–15:00</td>
+        <td>Hands-On: Building an SIR Model in R</td>
+        <td>Writing a simple R script to simulate disease spread (deterministic model).</td>
+    </tr>
+    <tr>
+        <td>15:00–15:15</td>
+        <td>Tea Break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>15:15–17:00</td>
+        <td>Practical Session: Simulating Control Scenarios</td>
+        <td>Testing different interventions (e.g., vaccination coverage) and their effects.</td>
+    </tr>
+</table>
+
+
+
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
@@ -96,18 +270,7 @@ By fostering local expertise and reducing reliance on external support, this wor
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
-<h4>Data science & Epidemiology</h4>
-<table class="table table-striped">
-  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
-  <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
-  <tr><td>09:45</td><td>Lecture Introduction to R</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>13:30</td><td>Practical Introduction to R (2 Hours)</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>16:00</td><td>Practical Introduction to R</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
-</table>
+
 
 <h3>Day 2</h3>
 
@@ -124,18 +287,7 @@ By fostering local expertise and reducing reliance on external support, this wor
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
-<h4>Data science & Epidemiology</h4>
-<table class="table table-striped">
-  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
-  <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:30</td><td>Creating Plots in R </td><td>Data science & Epidemiology</td></tr>
-  <tr><td>11:00</td><td>Epi stats</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>13:30</td><td>Data Considerations</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>16:00</td><td>Introduction to Kobo</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
-</table>
+
 
 <h3>Day 3</h3>
 
@@ -152,17 +304,6 @@ By fostering local expertise and reducing reliance on external support, this wor
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
-<h4>Data science & Epidemiology</h4>
-<table class="table table-striped">
-  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
-  <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:30</td><td>Lecture Epidemiological Networks</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>13:30</td><td>Practical Epidemiological Networks</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>16:00</td><td>Hands-on Network Analysis and Mapping</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
-</table>
 
 <h3>Day 4</h3>
 
@@ -177,38 +318,6 @@ By fostering local expertise and reducing reliance on external support, this wor
   <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Sequencing and Bioinformatics</td></tr>
   <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Sequencing and Bioinformatics</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
-</table>
-
-<h4>Data science & Epidemiology</h4>
-<table class="table table-striped">
-  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
-  <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:30</td><td>Lecture Intro to Mathematical Modelling of Infectious Diseases </td><td>Data science & Epidemiology</td></tr>
-  <tr><td>10:45</td><td>Practical Intro to Mathematical Modelling of Infectious Diseases </td><td>Data science & Epidemiology</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>13:30</td><td>Lecture Modelling the Spread of a Disease over a Network</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>13:30</td><td>Practical Modelling Disease Spread over a Network</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>14:30</td><td>Lecture Modelling Interventions</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Data science & Epidemiology</td></tr>
-  <tr><td>16:00</td><td>Practical Modelling Interventions</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
-</table>
-
-
-<h3>Day 5</h3>
-
-<table  class="table table-striped">
-
-<tr>  <td><b>Time</b></td>  <td><b>Session</b></td>  <td><b>Who</b></td></tr>
-<tr>  <td>09:00</td>  <td><i>Registration and morning coffee</i></td>  <td>All</td></tr>
-<tr>  <td>09:15</td>  <td>Opening ceremony</td>  <td>All</td></tr>
-<tr>  <td>09:45</td>  <td>Part 1: DNA Extraction 1 (3 Hours)</td>  <td>All</td></tr>
-<tr>  <td>12:45</td>  <td><i>Lunch Break</i></td>  <td>All</td></tr>
-<tr>  <td>13:30</td>  <td>Part 2: DNA Extraction 2 (2 Hours)</td>  <td>All</td></tr>
-<tr>  <td>15:30</td>  <td><i>Afternoon break</i></td>  <td>All</td></tr>
-<tr>  <td>16:00</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>All</td></tr>
-<tr>  <td>17:00</td>  <td>END</td>  <td>Everyone</td></tr>
-
 </table>
 
 
