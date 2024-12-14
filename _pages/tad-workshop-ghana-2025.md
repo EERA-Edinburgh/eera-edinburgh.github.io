@@ -79,7 +79,7 @@ By fostering local expertise and reducing reliance on external support, this wor
 ## Programme
 
 
-<div  class="col-md-10">
+<div  class="col-md-12">
 
 <h3>Day 1</h3>
 
