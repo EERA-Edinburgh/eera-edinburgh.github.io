@@ -85,7 +85,7 @@ By fostering local expertise and reducing reliance on external support, this wor
 
 
 <h4>Day 1: Introduction to R and R-Studio</h4>
-<table>
+<table class="table table-striped">
     <tr><th>Time</th><th>Activity</th><th>Details</th></tr>
     <tr><td>9:30–10:30</td>
         <td>Introduction to Data Science in Veterinary Medicine</td>
@@ -124,7 +124,7 @@ By fostering local expertise and reducing reliance on external support, this wor
 </table>
 
 <h4>Day 2: Epidemiological Statistics, Data Considerations & Introduction to KOBO Toolbox</h4>
-<table>
+<table class="table table-striped">
     <tr>
         <th>Time</th>
         <th>Activity</th>
@@ -168,7 +168,7 @@ By fostering local expertise and reducing reliance on external support, this wor
 </table>
 
 <h4>Day 3: Analysis of Movement Networks</h4>
-<table>
+<table class="table table-striped">
     <tr>
         <th>Time</th>
         <th>Activity</th>
@@ -212,7 +212,7 @@ By fostering local expertise and reducing reliance on external support, this wor
 </table>
 
 <h4>Day 4: Introduction to Mathematical Modelling, Disease Networks & Control</h4>
-<table>
+<table class="table table-striped">
     <tr>
         <th>Time</th>
         <th>Activity</th>
