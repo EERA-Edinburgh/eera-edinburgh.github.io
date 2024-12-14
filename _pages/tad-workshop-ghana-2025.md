@@ -87,17 +87,17 @@ By fostering local expertise and reducing reliance on external support, this wor
 <h4>Day 1: Introduction to R and R-Studio</h4>
 <table class="table table-striped">
     <tr><th>Time</th><th>Activity</th><th>Details</th></tr>
-    <tr><td>9:30–10:30</td>
+    <tr><td>9:30–10:00</td>
         <td>Introduction to Data Science in Veterinary Medicine</td>
         <td>Importance of data science in veterinary epidemiology, course objectives.</td>
     </tr>
     <tr>
-        <td>10:30–11:30</td>
+        <td>10:00–11:00</td>
         <td>Getting Started with R and RStudio</td>
-        <td>Installing R and RStudio, understanding the interface, and basic operations.</td>
+        <td>Understanding the interface, and basic operations.</td>
     </tr>
     <tr>
-        <td>11:30–12:30</td>
+        <td>11:00–12:30</td>
         <td>Data Basics in R</td>
         <td>Data types (vectors, matrices, data frames), importing/exporting datasets.</td>
     </tr>
@@ -109,7 +109,7 @@ By fostering local expertise and reducing reliance on external support, this wor
     <tr>
         <td>13:30–15:00</td>
         <td>Hands-On: Exploring RStudio Environment</td>
-        <td>Navigating RStudio, writing scripts, loading packages (e.g., <code>tidyverse</code>).</td>
+        <td>Navigating RStudio, using projects, writing scripts, loading packages (e.g., <code>tidyverse</code>).</td>
     </tr>
     <tr>
         <td>15:00–15:15</td>
@@ -119,7 +119,7 @@ By fostering local expertise and reducing reliance on external support, this wor
     <tr>
         <td>15:15–17:00</td>
         <td>Practical Session: Basic Data Manipulation in R</td>
-        <td>Filtering, subsetting, summarizing, and visualizing data (e.g., histograms, box plots).</td>
+        <td>Filtering, subsetting, summarizing.</td>
     </tr>
 </table>
 
@@ -133,12 +133,12 @@ By fostering local expertise and reducing reliance on external support, this wor
     <tr>
         <td>9:30–10:30</td>
         <td>Visualizing Epidemiological Data Using ggplot2</td>
-        <td>Hands-on with <code>ggplot2</code> for creating bar charts, scatterplots, and boxplots.</td>
+        <td>Hands-on with <code>ggplot2</code> for creating bar charts, scatterplots, boxplots, etc.</td>
     </tr>
     <tr>
         <td>10:30–11:30</td>
         <td>Introduction to Epi-Stats</td>
-        <td>Descriptive statistics (mean, median, prevalence, incidence) and confidence intervals.</td>
+        <td>Descriptive statistics (mean, median, prevalence, incidence) confidence intervals.</td>
     </tr>
     <tr>
         <td>11:30–12:30</td>
