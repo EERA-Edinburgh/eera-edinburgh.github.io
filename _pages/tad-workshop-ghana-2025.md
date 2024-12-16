@@ -26,7 +26,7 @@ Epidemiological Skills Development: Professionals will be trained in essential e
 By fostering local expertise and reducing reliance on external support, this workshop aims to strengthen Ghana’s capacity for managing TADs and safeguarding animal health.
 <br>
 
-## Photo gallery
+{# ## Photo gallery
 
 <div id="carousel" class="carousel slide col-md-8 fixed-carousel" data-ride="carousel" data-interval="4000" data-pause="hover">
 
@@ -47,7 +47,7 @@ By fostering local expertise and reducing reliance on external support, this wor
         </div>
     </div>
  
-</div>
+</div> #}
 
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
