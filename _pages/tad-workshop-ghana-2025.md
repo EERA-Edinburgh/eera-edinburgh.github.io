@@ -26,28 +26,27 @@ Epidemiological Skills Development: Professionals will be trained in essential e
 By fostering local expertise and reducing reliance on external support, this workshop aims to strengthen Ghana’s capacity for managing TADs and safeguarding animal health.
 <br>
 
-{# ## Photo gallery
+## Photo gallery
 
-<div id="carousel" class="carousel slide col-md-8 fixed-carousel" data-ride="carousel" data-interval="4000" data-pause="hover">
+<!-- <div id="carousel" class="carousel slide col-md-8 fixed-carousel" data-ride="carousel" data-interval="4000" data-pause="hover">
 
-<!-- Menu -->
+<!-- Menu
 <ol class="carousel-indicators">
     <li data-target="#carousel" data-slide-to="0" class="active"></li>
     <li data-target="#carousel" data-slide-to="1"></li>
-</ol>
+</ol> -->
 
 <!-- Items -->
-<div class="carousel-inner" markdown="0">
+<!--<div class="carousel-inner" markdown="0">
     <div class="item active">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nhlds1.jpeg" alt="Slide 1" />
-        <!-- Caption -->
         <div class="carousel-caption">
             <h3></h3>
             <p>AVL, Accra</p>
         </div>
     </div>
  
-</div> #}
+</div> --> 
 
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
