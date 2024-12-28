@@ -262,20 +262,20 @@ By fostering local expertise and reducing reliance on external support, this wor
 
 ## Programme B: Sequencing and Bioinformatics
 
-<div  class="col-md-12">
+<div  class="col-md-10">
 
 <h3>Day 1</h3>
 
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
-  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
-  <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Welcome</td><td>All</td></tr>
-  <tr><td>09:45</td><td>Part 1: Reverse Transcription (2 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>13:30</td><td>Part 2: Polymerase Chain Reaction (1.5 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>15:00</td><td><i>Afternoon break</i></td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>15:30</td><td>Tiled Amplicon Whole Genome Sequencing</td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Details</b></td></tr>
+  <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td></td></tr>
+  <tr><td>09:15</td><td>Welcome</td><td></td></tr>
+  <tr><td>09:45</td><td>Part 1: Reverse Transcription (2 Hours)</td><td>Generating cDNA from RNA</td></tr>
+  <tr><td>12:45</td><td><i>Lunch Break</i></td><td></td></tr>
+  <tr><td>13:30</td><td>Part 2: Polymerase Chain Reaction (1.5 Hours)</td><td>Set up tiled PCR</td></tr>
+  <tr><td>15:00</td><td><i>Afternoon break</i></td><td></td></tr>
+  <tr><td>15:30</td><td>Discussion: Tiled Amplicon Whole Genome Sequencing</td><td>Designing a tiled amplicon scheme for whole genome sequencing of viruses</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
@@ -285,14 +285,14 @@ By fostering local expertise and reducing reliance on external support, this wor
 
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
-  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
-  <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
-  <tr><td>09:45</td><td>Part 3: Library preparation & Sequencing (3 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Details</b></td></tr>
+  <tr><td>09:00</td><td><i>Morning tea/coffee</i></td><td></td></tr>
+  <tr><td>09:15</td><td>Morning recap</td><td></td></tr>
+  <tr><td>09:45</td><td>Part 3a: Library preparation & Sequencing (3 Hours)</td><td>Attaching barcodes and sequencing adaptors</td></tr>
   <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>13:30</td><td>Part 3: Library preparation & Sequencing (2 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>13:30</td><td>Part 3b: Library preparation & Sequencing (2 Hours)</td><td>Loading flowcell and begin sequencing</td></tr>
   <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>16:00</td><td>Discussion: Long read Nanopore sequencing</td><td>Introduction to Nanopore sequencing</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
@@ -302,14 +302,14 @@ By fostering local expertise and reducing reliance on external support, this wor
 
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
-  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
-  <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Details</b></td></tr>
+  <tr><td>09:00</td><td><i>Morning tea/coffee</i></td><td></td></tr>
+  <tr><td>09:15</td><td>Morning recap</td><td>All</td></tr>
+  <tr><td>09:45</td><td>FMD WGS bioinformatics workflow</td><td>Using EPI2ME for bioinformatics analysis of sequencing output</td></tr>
+  <tr><td>12:45</td><td><i>Lunch Break</i></td><td></td></tr>
+  <tr><td>13:30</td><td>FMD WGS bioinformatics workflow</td><td>Using EPI2ME for bioinformatics analysis of sequencing output</td></tr>
+  <tr><td>15:30</td><td><i>Afternoon break</i></td><td></td></tr>
+  <tr><td>16:00</td><td>EPI2ME for basecalling</td><td>Basecalling with EPI2ME</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
@@ -318,14 +318,14 @@ By fostering local expertise and reducing reliance on external support, this wor
 
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
-  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
-  <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
-  <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Details</b></td></tr>
+  <tr><td>09:00</td><td><i>Morning tea/coffee</i></td><td></td></tr>
+  <tr><td>09:15</td><td>Morning recap</td><td></td></tr>
+  <tr><td>09:45</td><td>Multiple sequence alignment and phylogenetics</td><td></td></tr>
+  <tr><td>12:45</td><td><i>Lunch Break</i></td><td></td></tr>
+  <tr><td>13:30</td><td>Genomic epidemiology with clustering</td><td></td></tr>
+  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>S</td></tr>
+  <tr><td>16:00</td><td>Final discussion</td><td></td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
