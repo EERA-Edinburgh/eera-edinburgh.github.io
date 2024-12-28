@@ -323,7 +323,7 @@ By fostering local expertise and reducing reliance on external support, this wor
   <tr><td>09:15</td><td>Morning recap</td><td></td></tr>
   <tr><td>09:45</td><td>Multiple sequence alignment and phylogenetics</td><td></td></tr>
   <tr><td>12:45</td><td><i>Lunch Break</i></td><td></td></tr>
-  <tr><td>13:30</td><td>Genomic epidemiology with clustering</td><td></td></tr>
+  <tr><td>13:30</td><td>Genomic epidemiology</td><td></td></tr>
   <tr><td>15:30</td><td><i>Afternoon break</i></td><td>S</td></tr>
   <tr><td>16:00</td><td>Final discussion</td><td></td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
