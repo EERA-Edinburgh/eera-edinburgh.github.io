@@ -61,7 +61,7 @@ By fostering local expertise and reducing reliance on external support, this wor
 
 <div class="clearfix"></div> 
 <!-- This will clear any floats, prevents appearing side by side  -->
- -->
+
 
 ---
 
@@ -77,7 +77,7 @@ By fostering local expertise and reducing reliance on external support, this wor
 
 ---
 
-## Programme
+## Programme A: Data Science and Epidemiology
 
 
 <div  class="col-md-12">
@@ -256,18 +256,26 @@ By fostering local expertise and reducing reliance on external support, this wor
     </tr>
 </table>
 
+</div>
 
+
+
+## Programme B: Sequencing and Bioinformatics
+
+<div  class="col-md-12">
+
+<h3>Day 1</h3>
 
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
-  <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>09:15</td><td>Welcome</td><td>All</td></tr>
+  <tr><td>09:45</td><td>Part 1: Reverse Transcription (2 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
   <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>13:30</td><td>Part 2: Polymerase Chain Reaction (1.5 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>15:00</td><td><i>Afternoon break</i></td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>15:30</td><td>Tiled Amplicon Whole Genome Sequencing</td><td>Sequencing and Bioinformatics</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
@@ -280,9 +288,9 @@ By fostering local expertise and reducing reliance on external support, this wor
   <tr><td><b>Time</b></td><td><b>Session</b></td><td><b>Who</b></td></tr>
   <tr><td>09:00</td><td><i>Registration and morning coffee</i></td><td>All</td></tr>
   <tr><td>09:15</td><td>Opening ceremony</td><td>All</td></tr>
-  <tr><td>09:45</td><td>Part 1: DNA Extraction 1 (3 Hours)</td><td>Data science & Epidemiology</td></tr>
+  <tr><td>09:45</td><td>Part 3: Library preparation & Sequencing (3 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
   <tr><td>12:45</td><td><i>Lunch Break</i></td><td>Sequencing and Bioinformatics</td></tr>
-  <tr><td>13:30</td><td>Part 2: DNA Extraction 2 (2 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
+  <tr><td>13:30</td><td>Part 3: Library preparation & Sequencing (2 Hours)</td><td>Sequencing and Bioinformatics</td></tr>
   <tr><td>15:30</td><td><i>Afternoon break</i></td><td>Sequencing and Bioinformatics</td></tr>
   <tr><td>16:00</td><td>Digital One Health showcase (Bodastage)</td><td>Sequencing and Bioinformatics</td></tr>
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
@@ -321,8 +329,8 @@ By fostering local expertise and reducing reliance on external support, this wor
   <tr><td>17:00</td><td>END</td><td>Everyone</td></tr>
 </table>
 
-
 </div>
+
 <br>
 <div class="clearfix"></div> <!-- This will clear any floats, prevents appearing side by side  -->
 
