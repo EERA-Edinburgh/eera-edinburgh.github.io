@@ -239,10 +239,10 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
     </tr>
     <tr>
         <td>10:30–11:30</td>
-        <td>Modelling Disease Spread in Networks</td>
-        <td>Incorporating network dynamics into disease models.</td>
+        <td>Hands-On: Building an SIR Model in R</td>
+        <td>Writing a simple R script to simulate disease spread (deterministic model).</td>
     </tr>
-    <tr>
+        <tr>
         <td>11:30–12:30</td>
         <td>Exploring Control Measures Through Modelling</td>
         <td>Using models to evaluate vaccination, quarantine, or movement restrictions.</td>
@@ -254,18 +254,23 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
     </tr>
     <tr>
         <td>13:30–15:00</td>
-        <td>Hands-On: Building an SIR Model in R</td>
-        <td>Writing a simple R script to simulate disease spread (deterministic model).</td>
-    </tr>
+        <td>Practical Session: Simulating Control Scenarios</td>
+        <td>Testing different interventions (e.g., vaccination coverage) and their effects.</td>
+    </tr>    
     <tr>
-        <td>15:00–15:15</td>
+        <td>15:00–15:30</td>
         <td>Tea Break</td>
         <td></td>
     </tr>
     <tr>
-        <td>15:15–17:00</td>
-        <td>Practical Session: Simulating Control Scenarios</td>
-        <td>Testing different interventions (e.g., vaccination coverage) and their effects.</td>
+        <td>15:30–16:30</td>
+        <td>Modelling Disease Spread in Networks</td>
+        <td>Incorporating network dynamics into disease models.</td>
+    </tr>
+    <tr>
+        <td>16:30–17:00</td>
+        <td>Practical Session: Modelling Disease Spread in Networks</td>
+        <td>Example of modelling the spread of a (theoretical) outbreak on a network.</td>
     </tr>
 </table>
 
