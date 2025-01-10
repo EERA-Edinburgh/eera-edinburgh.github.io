@@ -66,8 +66,8 @@ By fostering local expertise and reducing reliance on external support, this wor
 ---
 
 ## Links (For Workshop Use)
-Skip to data science workshop programme [day 1](#day1-ds), [day 2](#day2-ds), [day 3](#day3-ds), [day 4](#day4-ds)
-Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day 3](#day3-sb), [day 4](#day4-sb) 
+Skip to data science workshop programme [day 1](#day1-ds), [day 2](#day2-ds), [day 3](#day3-ds), [day 4](#day4-ds)\
+Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day 3](#day3-sb), [day 4](#day4-sb)\
 [Directions to the venue](https://maps.app.goo.gl/FUBxGFgPJC9mNLZy7)
 
 [Pre-workshop briefing slides]({{ site.url }}{{ site.baseurl }}/downloads/DOHBioinfoPreworkshop2024.pdf)
