@@ -66,7 +66,8 @@ By fostering local expertise and reducing reliance on external support, this wor
 ---
 
 ## Links (For Workshop Use)
-
+Skip to data science workshop programme [day 1](#day1-ds), [day 2](#day2-ds), [day 3](#day3-ds), [day 4](#day4-ds)
+Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day 3](#day3-sb), [day 4](#day4-sb) 
 [Directions to the venue](https://maps.app.goo.gl/FUBxGFgPJC9mNLZy7)
 
 [Pre-workshop briefing slides]({{ site.url }}{{ site.baseurl }}/downloads/DOHBioinfoPreworkshop2024.pdf)
@@ -82,15 +83,21 @@ By fostering local expertise and reducing reliance on external support, this wor
 
 <div  class="col-md-12">
 
-<h3>Day 1</h3>
+<h3><a id="day1-ds">Day 1</a></h3>
 
 
 <h4>Day 1: Introduction to R and R-Studio</h4>
 <table class="table table-striped">
     <tr><th>Time</th><th>Activity</th><th>Details</th></tr>
-    <tr><td>9:30–10:00</td>
-        <td>Introduction to Data Science in Veterinary Medicine</td>
-        <td>Importance of data science in veterinary epidemiology, course objectives.</td>
+    <tr>
+      <td>9:00–9:30</td>
+      <td>Software check and coffee</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>9:30–10:00</td>
+      <td>Introduction to Data Science in Veterinary Medicine</td>
+      <td>Importance of data science in veterinary epidemiology, course objectives.</td>
     </tr>
     <tr>
         <td>10:00–11:00</td>
@@ -124,7 +131,7 @@ By fostering local expertise and reducing reliance on external support, this wor
     </tr>
 </table>
 
-<h4>Day 2: Epidemiological Statistics, Data Considerations & Introduction to KOBO Toolbox</h4>
+<h4><a id="day2-ds">Day 2: Epidemiological Statistics, Data Considerations & Introduction to KOBO Toolbox</a></h4>
 <table class="table table-striped">
     <tr>
         <th>Time</th>
@@ -132,19 +139,24 @@ By fostering local expertise and reducing reliance on external support, this wor
         <th>Details</th>
     </tr>
     <tr>
+        <td>9:00–9:30</td>
+        <td>Software check and coffee</td>
+        <td> </td>
+    </tr>
+    <tr>
         <td>9:30–10:30</td>
-        <td>Visualizing Epidemiological Data Using ggplot2</td>
-        <td>Hands-on with <code>ggplot2</code> for creating bar charts, scatterplots, boxplots, etc.</td>
+        <td>Basic epi concepts</td>
+        <td> </td>
     </tr>
     <tr>
-        <td>10:30–11:30</td>
-        <td>Introduction to Epi-Stats</td>
-        <td>Descriptive statistics (mean, median, prevalence, incidence) confidence intervals.</td>
+        <td>10:30–11:00</td>
+        <td>Survey designs</td>
+        <td> </td>
     </tr>
     <tr>
-        <td>11:30–12:30</td>
-        <td>Statistical Testing</td>
-        <td>Hypothesis testing (t-tests, chi-square, Fisher’s exact test).</td>
+        <td>11:00–12:30</td>
+        <td>Measures of association</td>
+        <td> </td>
     </tr>
     <tr>
         <td>12:30–13:30</td>
@@ -153,22 +165,22 @@ By fostering local expertise and reducing reliance on external support, this wor
     </tr>
     <tr>
         <td>13:30–15:00</td>
-        <td>Data Considerations in Veterinary Studies</td>
-        <td>Data quality, biases, and sampling strategies in epidemiological research.</td>
+        <td>Data collection challenges</td>
+        <td> </td>
     </tr>
     <tr>
-        <td>15:00–15:15</td>
+        <td>15:00–15:30</td>
         <td>Tea Break</td>
         <td></td>
     </tr>
     <tr>
-        <td>15:15–17:00</td>
-        <td>Introduction to KOBO Toolbox</td>
-        <td>Setting up KOBO, designing surveys, collecting field data.</td>
+        <td>15:30–17:00</td>
+        <td>KOBO Tool</td>
+        <td> </td>
     </tr>
 </table>
 
-<h4>Day 3: Analysis of Movement Networks</h4>
+<h4><a id="day3-ds">Day 3: Analysis of Movement Networks</a></h4>
 <table class="table table-striped">
     <tr>
         <th>Time</th>
@@ -212,7 +224,7 @@ By fostering local expertise and reducing reliance on external support, this wor
     </tr>
 </table>
 
-<h4>Day 4: Introduction to Mathematical Modelling, Disease Networks & Control</h4>
+<h4><a id="day4-ds">Day 4: Introduction to Mathematical Modelling, Disease Networks & Control</a></h4>
 <table class="table table-striped">
     <tr>
         <th>Time</th>
@@ -262,7 +274,7 @@ By fostering local expertise and reducing reliance on external support, this wor
 
 <div class="col-md-10">
 
-<h3>Day 1</h3>
+<h3><a id="day1-sb">Day 1</a></h3>
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr>
@@ -312,7 +324,7 @@ By fostering local expertise and reducing reliance on external support, this wor
   </tr>
 </table>
 
-<h3>Day 2</h3>
+<h3><a id="day2-sb">Day 2</a></h3>
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr>
@@ -362,7 +374,7 @@ By fostering local expertise and reducing reliance on external support, this wor
   </tr>
 </table>
 
-<h3>Day 3</h3>
+<h3><a id="day3-sb">Day 3</a></h3>
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr>
@@ -412,7 +424,7 @@ By fostering local expertise and reducing reliance on external support, this wor
   </tr>
 </table>
 
-<h3>Day 4</h3>
+<h3><a id="day4-sb">Day 4</a></h3>
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr>
