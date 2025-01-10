@@ -84,9 +84,7 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
 <div  class="col-md-12">
 
 <h3><a id="day1-ds">Day 1</a></h3>
-
-
-<h4>Day 1: Introduction to R and R-Studio</h4>
+<h4>Introduction to R and R-Studio</h4>
 <table class="table table-striped">
     <tr><th>Time</th><th>Activity</th><th>Details</th></tr>
     <tr>
@@ -131,7 +129,8 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
     </tr>
 </table>
 
-<h4><a id="day2-ds">Day 2: Epidemiological Statistics, Data Considerations & Introduction to KOBO Toolbox</a></h4>
+<h3><a id="day2-ds">Day 2</a></h3>
+<h4>Epi concepts, Survey Design, Associations Data Challenges & KOBO </h4>
 <table class="table table-striped">
     <tr>
         <th>Time</th>
@@ -180,7 +179,8 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
     </tr>
 </table>
 
-<h4><a id="day3-ds">Day 3: Analysis of Movement Networks</a></h4>
+<h3><a id="day3-ds">Day 3</a></h3>
+<h4>Analysis of Movement Networks</h4>
 <table class="table table-striped">
     <tr>
         <th>Time</th>
@@ -224,7 +224,8 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
     </tr>
 </table>
 
-<h4><a id="day4-ds">Day 4: Introduction to Mathematical Modelling, Disease Networks & Control</a></h4>
+<h3><a id="day4-ds">Day 4</a></h3>
+<h4>Introduction to Mathematical Modelling, Disease Networks & Control</h4>
 <table class="table table-striped">
     <tr>
         <th>Time</th>
