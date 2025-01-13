@@ -500,6 +500,61 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
   </tr>
 </table>
 
+
+## Final Day: Future Project Disscusion
+
+<h3>Day 5</h3>
+<h4>Combined Future Project Disscusion</h4>
+<table class="table table-striped">
+  <tr>
+    <th>Time</th>
+    <th>Session</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>09:00 - 09:15</td>
+    <td><i>Morning tea/coffee</i></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>09:15 - 09:45</td>
+    <td>Morning recap</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>09:45 - 12:45</td>
+    <td>1st Discussion</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12:45 - 13:30</td>
+    <td><i>Lunch Break</i></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>13:30 - 15:30</td>
+    <td>2nd Discussion</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>15:30 - 16:00</td>
+    <td><i>Afternoon break</i></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>16:00 - 17:00</td>
+    <td>Workshop closing</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>17:00</td>
+    <td>END</td>
+    <td></td>
+  </tr>
+</table>
+
+
+
 </div>
 
 <br>
