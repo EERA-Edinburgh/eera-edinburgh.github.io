@@ -83,7 +83,7 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
 
 <div  class="col-md-12">
 
-<h3><a id="day1-ds">Day 1</a></h3>
+<h3><a id="day1-ds">Day 1 (Wed, 22 Jan 2025)</a></h3>
 <h4>Introduction to R and R-Studio</h4>
 <table class="table table-striped">
     <tr><th>Time</th><th>Activity</th><th>Details</th></tr>
@@ -129,7 +129,7 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
     </tr>
 </table>
 
-<h3><a id="day2-ds">Day 2</a></h3>
+<h3><a id="day2-ds">Day 2 (Thurs, 23 Jan 2025)</a></h3>
 <h4>Epi concepts, Survey Design, Associations Data Challenges & KOBO </h4>
 <table class="table table-striped">
     <tr>
@@ -179,7 +179,7 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
     </tr>
 </table>
 
-<h3><a id="day3-ds">Day 3</a></h3>
+<h3><a id="day3-ds">Day 3 (Saturday, 25 Jan 2025)</a></h3>
 <h4>Analysis of Movement Networks</h4>
 <table class="table table-striped">
     <tr>
@@ -244,7 +244,7 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
     </tr>
 </table>
 
-<h3><a id="day4-ds">Day 4</a></h3>
+<h3><a id="day4-ds">Day 4 (Monday, 27 Jan 2025)</a></h3>
 <h4>Introduction to Mathematical Modelling, Disease Networks & Control</h4>
 <table class="table table-striped">
     <tr>
@@ -300,7 +300,7 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
 
 <div class="col-md-10">
 
-<h3><a id="day1-sb">Day 1</a></h3>
+<h3><a id="day1-sb">Day 1 (Wed, 22 Jan 2025)</a></h3>
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr>
@@ -350,7 +350,7 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
   </tr>
 </table>
 
-<h3><a id="day2-sb">Day 2</a></h3>
+<h3><a id="day2-sb">Day 2 (Thurs, 23 Jan 2025)</a></h3>
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr>
@@ -400,7 +400,7 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
   </tr>
 </table>
 
-<h3><a id="day3-sb">Day 3</a></h3>
+<h3><a id="day3-sb">Day 3 (Saturday, 25 Jan 2025)</a></h3>
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr>
@@ -450,7 +450,7 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
   </tr>
 </table>
 
-<h3><a id="day4-sb">Day 4</a></h3>
+<h3><a id="day4-sb">Day 4 (Monday, 27 Jan 2025)</a></h3>
 <h4>Sequencing and Bioinformatics</h4>
 <table class="table table-striped">
   <tr>
@@ -499,61 +499,6 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
     <td></td>
   </tr>
 </table>
-
-
-## Final Day: Future Project Disscusion
-
-<h3>Day 5</h3>
-<h4>Combined Future Project Disscusion</h4>
-<table class="table table-striped">
-  <tr>
-    <th>Time</th>
-    <th>Session</th>
-    <th>Details</th>
-  </tr>
-  <tr>
-    <td>09:00 - 09:15</td>
-    <td><i>Morning tea/coffee</i></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>09:15 - 09:45</td>
-    <td>Morning recap</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>09:45 - 12:45</td>
-    <td>1st Discussion</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>12:45 - 13:30</td>
-    <td><i>Lunch Break</i></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>13:30 - 15:30</td>
-    <td>2nd Discussion</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>15:30 - 16:00</td>
-    <td><i>Afternoon break</i></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>16:00 - 17:00</td>
-    <td>Workshop closing</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>17:00</td>
-    <td>END</td>
-    <td></td>
-  </tr>
-</table>
-
-
 
 </div>
 
