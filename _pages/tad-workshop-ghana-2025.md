@@ -10,7 +10,7 @@ permalink: /tad-workshop-ghana-2025.html
 <br>
 # Transboundary Animal Diseases Workshop
 
-**Date:** Tuesday, 22 - 27 January 2025  
+**Date:** 22 - 27 January 2025  
 **Location:** Accra Veterinary Laboratory, GL-005-4794, Okodan Rd, Accra, Ghana
 
 ---
