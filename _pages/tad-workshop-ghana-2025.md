@@ -188,19 +188,24 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
         <th>Details</th>
     </tr>
     <tr>
-        <td>9:30–10:30</td>
-        <td>Introduction to Network Analysis</td>
-        <td>Basics of networks (nodes, edges), relevance to disease spread.</td>
+        <td>9:00–9:30</td>
+        <td>Software check and coffee</td>
+        <td> </td>
     </tr>
     <tr>
-        <td>10:30–11:30</td>
-        <td>Network Metrics in Epidemiology</td>
-        <td>Degree, centrality, connectivity, paths, and their applications.</td>
+        <td>9:30–10:00</td>
+        <td>Talk 1: General concepts of networks and what can you do with network data</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>10:00–11:30</td>
+        <td>Practical 1: Data and creating a network</td>
+        <td> </td>
     </tr>
     <tr>
         <td>11:30–12:30</td>
-        <td>Case Studies: Animal Movement Networks</td>
-        <td>Examples of disease outbreaks driven by movement (e.g., FMD, avian flu).</td>
+        <td>Practical 2: Temporal networks and visualization</td>
+        <td> </td>
     </tr>
     <tr>
         <td>12:30–13:30</td>
@@ -208,19 +213,34 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
         <td></td>
     </tr>
     <tr>
-        <td>13:30–15:00</td>
-        <td>Hands-On: Visualizing Networks in R</td>
-        <td>Using <code>igraph</code> or similar R packages to map and analyze movement data.</td>
+        <td>13:30–14:00</td>
+        <td>Practical 2: Temporal networks and visualization (cont.)</td>
+        <td> </td>
+    </tr>
+        <tr>
+        <td>14.00–14:30</td>
+        <td>Talk 2: Describing a network – structure and centrality</td>
+        <td> </td>
     </tr>
     <tr>
-        <td>15:00–15:15</td>
+        <td>14:30–15:00</td>
+        <td>Practical 3: Centrality </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>15:00–15:30</td>
         <td>Tea Break</td>
         <td></td>
     </tr>
     <tr>
-        <td>15:15–17:00</td>
-        <td>Practical Session: Analyzing Movement Data</td>
-        <td>Calculating metrics, identifying high-risk nodes, simulating disease spread.</td>
+        <td>15:30–16:30</td>
+        <td>Practical 3: Centrality (cont.)</td>
+        <td> </td>
+    </tr>
+    <tr>
+      <td>16.30-17.00</td>
+      <td>Next steps and troubleshooting</td>
+      <td> </td>
     </tr>
 </table>
 
