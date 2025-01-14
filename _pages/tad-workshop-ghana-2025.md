@@ -21,9 +21,17 @@ This workshop is part of the Transboundary Animal Diseases (TADs) Capacity-Build
 
 The workshop will be co-organized with the Accra Veterinary Laboratory and the University of Ghana. It will focus on two key objectives:
 
-Building Diagnostic Capacity: Participants will receive hands-on training in genome sequencing techniques and data science tools to improve diagnostic capabilities.
-Epidemiological Skills Development: Professionals will be trained in essential epidemiological methods, enabling them to analyze high-quality data, such as the national animal movement database, to inform disease control strategies.
+1. Building Diagnostic Capacity: Participants will receive hands-on training in using genome sequencing techniques and bioinformatics tools to improve diagnostic capabilities.
+
+2. Epidemiological Skills Development: Professionals will be trained in essential epidemiological methods, enabling them to analyse high-quality data, such as the national animal movement database, to inform disease control strategies.
 By fostering local expertise and reducing reliance on external support, this workshop aims to strengthen Ghana’s capacity for managing TADs and safeguarding animal health.
+
+This workshop will be conducted in two parallel streams:
+ - Data Science & Epidemiology (22, 23, 25 & 27 Jan 2025)
+ - Sequencing & Bioinformatics (22, 23, 25 & 27 Jan 2025)
+
+
+
 <br>
 
 <!-- ## Photo gallery
