@@ -261,6 +261,11 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
         <th>Details</th>
     </tr>
     <tr>
+        <td>9:00–9:30</td>
+        <td>Software check and coffee</td>
+        <td> </td>
+    </tr>
+    <tr>
         <td>9:30–10:30</td>
         <td>Introduction to Mathematical Modelling</td>
         <td>Basics of deterministic models (e.g., SIR model) in epidemiology.</td>
