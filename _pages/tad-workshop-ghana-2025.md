@@ -570,7 +570,7 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
 
 ## Registration
 
-For any inquiries, please contact Bram: bram.vanbunnik@ed.ac.uk or Richard: (abbiw.richardk@gmail.com)
+For any inquiries, please contact Bram: bram.vanbunnik@ed.ac.uk or Richard: abbiw.richardk@gmail.com
 
 ---
 
