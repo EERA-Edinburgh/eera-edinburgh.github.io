@@ -521,20 +521,21 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
 
 ### Hosts
 
-* **Theophilus Odoom:** 
-* **Richard Abbiw:** 
-* **Sherry A M Johnson:**  
+* **Theophilus Odoom** 
+* **Richard Abbiw** 
+* **Sherry A M Johnson**
+* **Benita Anderson** 
 
 
 ### Trainers
 
-* **Mark Bronsvoort:**
-* **Lina Gonzalez Gordon:**
-* **Stella Mazeri:**
-* **Richard Orton:**
-* **Andrew Shaw:**
-* **Bram van Bunnik:**
-* **Bryan Wee:**
+* **Mark Bronsvoort**
+* **Lina Gonzalez Gordon**
+* **Stella Mazeri**
+* **Richard Orton**
+* **Andrew Shaw**
+* **Bram van Bunnik**
+* **Bryan Wee**
 
 
 ### Workshop participants
@@ -576,7 +577,7 @@ For any inquiries, please contact Bram: bram.vanbunnik@ed.ac.uk or Richard: (abb
 ## Partners
 
 We'd like to thank the Scottish Funding Council ISPF Partnership Fund for funding this project.
-![sfc logo]({{ site.url }}{{ site.baseurl }}/images/logopic/sfc-logo.svg){width=200}
+![sfc logo]({{ site.url }}{{ site.baseurl }}/images/logopic/sfc-logo.svg)
 
 
 
