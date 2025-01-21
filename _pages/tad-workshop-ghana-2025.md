@@ -95,7 +95,12 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
 <h4>Introduction to R and R-Studio</h4>
 <table class="table table-striped">
     <tr><th>Time</th><th>Activity</th><th>Details</th></tr>
-    <tr>
+    <tr>     
+      <td>8:30</td>
+      <td>Gather at entrance of the Accra Veterinary Laboratory.</td>
+      <td> </td>
+    </tr>
+    <tr>     
       <td>9:00–9:30</td>
       <td>Software check and coffee</td>
       <td> </td>
