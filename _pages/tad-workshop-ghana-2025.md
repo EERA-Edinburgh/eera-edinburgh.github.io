@@ -78,11 +78,11 @@ Skip to data science workshop programme [day 1](#day1-ds), [day 2](#day2-ds), [d
 Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day 3](#day3-sb), [day 4](#day4-sb)\
 [Directions to the venue](https://maps.app.goo.gl/FUBxGFgPJC9mNLZy7)
 
-[Pre-workshop briefing slides]({{ site.url }}{{ site.baseurl }}/downloads/DOHBioinfoPreworkshop2024.pdf)
+[Google Drive - Workshop material](https://drive.google.com/drive/folders/1DqvkLqZHzYIJLwGLSczB3ogvo7R1_g7S?usp=drive_link)
 
-[Google Drive - Workshop material](https://drive.google.com)
+[Collaborative Google Doc](https://docs.google.com/document/d/1ZXtF3jWl8L9C3ykYV5-wHW22roI5lCCd0pqKQdKHNFM/edit?usp=sharing)
 
-[Collaborative Google Doc]() &larr; link not active yet
+
 
 ---
 
