@@ -78,10 +78,9 @@ Skip to data science workshop programme [day 1](#day1-ds), [day 2](#day2-ds), [d
 Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day 3](#day3-sb), [day 4](#day4-sb)\
 [Directions to the venue](https://maps.app.goo.gl/FUBxGFgPJC9mNLZy7)
 
-[Google Drive - Workshop material](https://drive.google.com/drive/folders/1DqvkLqZHzYIJLwGLSczB3ogvo7R1_g7S?usp=drive_link)
+[Pre-workshop briefing slides]({{ site.url }}{{ site.baseurl }}/downloads/pre-workshop_instructions.pdf)
 
-[Collaborative Google Doc](https://docs.google.com/document/d/1ZXtF3jWl8L9C3ykYV5-wHW22roI5lCCd0pqKQdKHNFM/edit?usp=sharing)
-
+[GitHub - Workshop material (material to come soon!)](https://github.com/EERA-Edinburgh/TAD-Workshop-Ghana-2025)
 
 
 ---
@@ -95,7 +94,12 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
 <h4>Introduction to R and R-Studio</h4>
 <table class="table table-striped">
     <tr><th>Time</th><th>Activity</th><th>Details</th></tr>
-    <tr>
+    <tr>     
+      <td>8:30</td>
+      <td>Gather at entrance of the Accra Veterinary Laboratory.</td>
+      <td> </td>
+    </tr>
+    <tr>     
       <td>9:00–9:30</td>
       <td>Software check and coffee</td>
       <td> </td>
@@ -259,6 +263,11 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
         <th>Time</th>
         <th>Activity</th>
         <th>Details</th>
+    </tr>
+    <tr>
+        <td>9:00–9:30</td>
+        <td>Software check and coffee</td>
+        <td> </td>
     </tr>
     <tr>
         <td>9:30–10:30</td>
@@ -516,37 +525,63 @@ Skip to sequencing workshop programme [day 1](#day1-sb), [day 2](#day2-sb), [day
 
 ### Hosts
 
-* **Theophilus Odoom:** [Short bio]
-* **Richard Abbiw:** [Short bio]
-* **Sherry A M Johnson:** [Short bio]  
+* **Theophilus Odoom** 
+* **Richard Abbiw** 
+* **Sherry A M Johnson**
+* **Benita Anderson** 
 
 
 ### Trainers
 
-* **Mark Bronsvoort:** [Short bio]  
-* **Lina Gonzalez Gordon:** [Short bio]  
-* **Stella Mazeri:** [Short bio]  
-* **Richard Orton:** [Short bio]  
-* **Andrew Shaw:** [Short bio]  
-* **Bram van Bunnik:** [Short bio]  
-* **Bryan Wee:** [Short bio]  
+* **Mark Bronsvoort**
+* **Lina Gonzalez Gordon**
+* **Stella Mazeri**
+* **Richard Orton**
+* **Andrew Shaw**
+* **Bram van Bunnik**
+* **Bryan Wee**
 
 
 ### Workshop participants
 
-* **Theophilus Odoom :** AVL, Accra, Ghana
+* **Benita Anderson**
+* **Beatrice Osei-Appia**
+* **Akosua Kumi Nyarko**
+* **Sherry A. M. Johnson**
+* **Enoch Sottie**
+* **William Tasiame**
+* **Edem Apewokin**
+* **Allen N. A. Okine**
+* **Yayra Nuapah**
+* **Awurama Gyamfuah Asirifi**
+* **Richard Kwamena Abbiw**
+
+* **Pattrick Tetteh Ababio**
+* **Nana Y. Tawiah-Yingar**
+* **Daniel Baah**
+* **Bright Osei**
+* **Patrick Mensah Amponsah**
+* **Daniel Dakolgo Kwesi Sia**
+* **Matilda Ayim Akonor**
+* **Eunice Appiah**
+* **Juanita Mawusi**
+* **Gifty Emefa Fia**
+* **Magdalene S. Nketia Ofori**
+* **Theophilus Odoom**
+
 
 ---
 
 ## Registration
 
-For any inquiries, please contact ...
+For any inquiries, please contact Bram: bram.vanbunnik@ed.ac.uk or Richard: abbiw.richardk@gmail.com
 
 ---
 
 ## Partners
 
-We'd like to thank the 
+We'd like to thank the Scottish Funding Council ISPF Partnership Fund for funding this project.
+![sfc logo]({{ site.url }}{{ site.baseurl }}/images/logopic/sfc-logo.svg)
 
 
 
